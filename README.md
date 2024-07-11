@@ -51,7 +51,7 @@
 
 ## DEMO:
 Dependency of skills/technologies to number of those technologies (205 vacancies):
-![NVIDIA_Share_YIMJmxOUa4.png](..%2F..%2F..%2FDocuments%2FShareX%2FScreenshots%2F2024-07%2FNVIDIA_Share_YIMJmxOUa4.png)
+![technologies_to_num.png](technologies_to_num.png)
 
 Dependency of salary offers to number of those offers (only 29 offers displayed their offer, so statistic is not very reliable)
-![NVIDIA_Share_zsFbogHThL.png](..%2F..%2F..%2FDocuments%2FShareX%2FScreenshots%2F2024-07%2FNVIDIA_Share_zsFbogHThL.png)
+![salary_to_offers.png](salary_to_offers.png)
